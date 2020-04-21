@@ -1,0 +1,106 @@
+body{
+margin:0;
+}
+#header{
+    width: 100%;
+    height: 140px;
+    border-bottom: 1px solid;
+    background-image: url("/images/h_img.png");
+    background-color: darkcyan;
+    font-size: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.h2{
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.description{
+    height: 50px;
+}
+.textArea{
+    height: 15vh;
+    width: 70vh;
+    padding-left: 60px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #dddddd;
+}
+.coursesCont{
+    margin-top: 155px;
+    border: black;
+    height: 20px;
+}
+.courses{
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.ulList{
+margin-left: 65px;
+}
+.myMovieTitle{
+    margin-top: 110px;
+    border: black;
+    height: 20px;
+}
+.movies{
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.movieList{
+    margin-left: 65px;
+    font-size: 19px;
+}
+.myMoodCont{
+    margin-top: 110px;
+    border: black;
+    height: 80px;
+    align-content: center;
+}
+.myMoodTitle{
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.myMoodImg1{
+    height: 150px;
+    width: 150px;
+    margin-left: 60px;
+}
+.myMoodImg2{
+    height: 150px;
+    width: 150px;
+    margin-left: 90px;
+}
+.myNeighborsCont{
+    margin-top: 110px;
+    border: black;
+    height: 80px;
+    align-content: center;
+}
+.neighborsTitle{
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.myFavorCont{
+    margin-top: 110px;
+    border: black;
+    height: 80px;
+    align-content: center;
+    margin-bottom: 30px;
+}
+.myFavTitle{
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
