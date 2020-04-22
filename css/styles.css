@@ -35,3 +35,6 @@ color: white;
     margin-top: -40px;
  margin-left: 500px;
 }
+A.visited{
+    color: yellow;
+}
