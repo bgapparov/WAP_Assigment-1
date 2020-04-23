@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad01603e-9f22-4f25-83eb-4b758541a291" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/movieStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bannerbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/critic.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fresh.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rotten.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rottenbig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tmnt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/w3c-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/w3c-html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/w3c-xhtml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d3/movie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aboutMe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aboutMe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/movieStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/movieStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d3/movie.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d3/movie.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/movieStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+            <state relative-caret-position="354">
+              <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -61,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+            <state relative-caret-position="219">
+              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -70,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w1d3/movie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="103" column="34" lean-forward="true" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
+            <state relative-caret-position="577">
+              <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -103,6 +85,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rott</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -155,11 +142,6 @@
               <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
@@ -225,12 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587416842633</updated>
       <workItem from="1587416843831" duration="1657000" />
-      <workItem from="1587419785845" duration="30477000" />
+      <workItem from="1587419785845" duration="35377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32134000" />
+    <option name="totallyTimeSpent" value="37034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />
@@ -323,13 +305,6 @@
     <entry file="file://$PROJECT_DIR$/images/rbg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/aboutMe.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-756">
@@ -341,13 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1d3/movie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="103" column="34" lean-forward="true" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -381,10 +349,24 @@
     <entry file="file://$PROJECT_DIR$/images/critic.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w1d3/movie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/movieStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+        <state relative-caret-position="354">
+          <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
         </state>
       </provider>
     </entry>
