@@ -6,9 +6,10 @@ body{
 .movieHeader{
     background-image: url("../images/banner.png");
     height: 50px;
-    align-self: auto;
-    background-repeat: no-repeat;
+    width: 100%;
     background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
 }
 .titleDiv{
     vertical-align: middle;
@@ -125,6 +126,30 @@ body{
     margin-top: -2px;
     padding-bottom: -2px;
 }
+
+.author3{
+    margin-top: -2px;
+    padding-bottom: -2px;
+    display: flex;
+
+}
+.author4{
+    margin-left: 20em;
+}
+.author5{
+    margin-left: 19em;
+}
+.author6{
+    margin-left: 15.7em;
+}
+
+.author7{
+    margin-left: 20.7em;
+}
+.author8{
+    margin-left: 20.7em;
+}
+
 .row3{
 
 }
