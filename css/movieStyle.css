@@ -5,7 +5,10 @@ body{
 
 .movieHeader{
     background-image: url("../images/banner.png");
-    height: 58px;
+    height: 50px;
+    align-self: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .titleDiv{
     vertical-align: middle;
@@ -14,6 +17,14 @@ body{
 
 .titleDiv, h1{
     text-align: center;
+}
+
+.logoPrecent h1{
+    color: red;
+    position: absolute;
+    padding-left: 120px;
+    font-size: 68px;
+    margin-top: 0;
 }
 
 .row{
@@ -27,8 +38,14 @@ body{
 }
 .percent img{
     display: table-cell;
-    height: 60px;
-    width: 920px;
+    height: 80px;
+    width: 856px;
+    position: absolute;
+}
+
+.logoPrecent img {
+    padding-left: 10px;
+    width: 80px;
 }
 
 .overView{
@@ -50,18 +67,22 @@ body{
 
 .allReview{
     margin: 0;
-    padding: 30px;
-    height: 1150px;
-    vertical-align: top
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 1163px;
+    vertical-align: top;
 }
 
 .allReview p img{
     width: 30px;
     height: 30px;
+    position: relative;
 }
 
 .row1{
     padding-bottom: -2px;
+    margin-top: 54px;
 }
 
 .column {
@@ -99,7 +120,17 @@ body{
 }
 .author{
     margin-top: -2px;
-    margin-bottom: 34px;
+    padding-bottom: -2px;
+}
+.row3{
+
+}
+
+.pagination p{
+    background-color: #A2B964;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 33em;
 }
 
 
