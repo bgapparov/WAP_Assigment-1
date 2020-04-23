@@ -20,8 +20,8 @@
 .ul1{
     margin-left: 60px;
 }
-.body{
-color: white;
+body{
+margin: 0;
 }
 .footer{
     border-top: 1px solid #dddddd;
@@ -35,6 +35,6 @@ color: white;
     margin-top: -40px;
  margin-left: 500px;
 }
-A.visited{
+a.visited{
     color: yellow;
 }
