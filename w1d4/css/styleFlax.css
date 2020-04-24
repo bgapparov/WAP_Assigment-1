@@ -41,6 +41,7 @@
     font-weight: bold;
     flex-basis: 20%;
     order: 1;
+    height: 10em;
 }
 
 .column2{
@@ -48,6 +49,7 @@
     font-weight: bold;
     flex-basis: 60%;
     order: 2;
+    height: 10em;
 }
 
 .column3{
@@ -55,6 +57,7 @@
     font-weight: bold;
     flex-basis: 20%;
     order: 3;
+    height: 10em;
 }
 
 .footer{

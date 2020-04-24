@@ -47,16 +47,19 @@
 .column1{
     background-color: dimgray;
     font-weight: bold;
+    height: 10em;
 }
 
 .column2{
     background-color: darkgray;
     font-weight: bold;
+    height: 10em;
 }
 
 .column3{
     background-color: lightgray;
     font-weight: bold;
+    height: 10em;
 }
 .footer{
     clear: left;
