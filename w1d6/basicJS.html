@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic Javascript</title>
+    <script>
+        function functionTest(expected, reality) {
+            if(expected === reality){
+                return "Test Succeeded"
+            }else {
+                return "Test Failed. Expected " + expected + " reality " + reality;
+            }
+        }
+
+        //max2 return of the maximum of 2 numbers
+        function max(number1, number2){
+            if(number1 > number2){
+                return number1
+            }
+            else {
+                return number2;
+            }
+        }
+
+        //max3 takes three as arguments and returns the larges
+        function maxOfThree(number1, number2, number3){
+            if(number1 >= number2 && number2 >= number3){
+                return number1;
+            }else if(number2 >= number1 && number1 >= number3){
+                return  number2;
+            }
+            else {
+                return  number3;
+            }
+        }
+
+        //vowleel if character is vowel return true else false
+        function isVowel(c) {
+
+            return ['a', 'e', 'i', 'u','o'].indexOf(c.toLowerCase()) !==1;
+        }
+
+        //sum return sum of the array elements
+        function sum(arr){
+           var sum = 0;
+           arr.forEach(function(a){
+               sum += a;
+           });
+            return sum;
+        }
+
+        //multiply returns multiply of the arrays elements
+        function multiply(arr){
+           var mult = 1;
+           arr.forEach(function(a){
+               mult *= a;
+           });
+            return mult;
+        }
+
+        //reverse returns revers of string
+        function myReverse(str){
+            var splitString = str.split("");
+            var reverseArray = splitString.reverse();
+            var joinArray = reverseArray.join("");
+
+            return joinArray;
+        }
+
+
+        console.log("Expected output of the max(35, 68) is 68 " + functionTest(68, max(35, 68)));
+        console.log("Expected output of the maxOfThree (10, 40 , 60) is 60  " + functionTest(60, maxOfThree(10, 40,60)));
+        console.log("Expected output of the a is true " + functionTest(true, isVowel('a')));
+        console.log("Expected output of the [3,4,5,6,7] is 25 " + functionTest(25, sum([1,3,5,7,4,5])));
+        console.log("Expected output of the [1, 3, 4, 2] is 24 " + functionTest(24, multiply([3, 4, 2])));
+        console.log("Expected output of  of the today  is yadot " + functionTest('yadot', myReverse('today')));
+    </script>
+</head>
+<body>
+<p>Please look in the Chrome developer console to see the output. For Windows -> CTRL_SHIFT_J or for Mac -> CMD_Option_J</p>
+</body>
+</html>
