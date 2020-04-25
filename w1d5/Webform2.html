@@ -2,9 +2,59 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Welcome to Webform - 2</title>
+    <link rel="stylesheet" href="styleWebform2.css">
 </head>
 <body>
+    <div class="header">
+        <p>MUM Golden Dome Market:::SRM System</p>
+             <a class="menu1">Products</a>
+             <a class="menu2">Suppliers</a>
+        <div class="navRight">
+        <p>Hello!</p>
+        <button class="signOut">Sign Out</button>
+        </div>
+    </div>
+    <div class="title">
+        <h2>New Product Form</h2>
+    </div>
+    <div class="flexbox-container">
+        <div>
+            <form action="/#test">
+                <label for="number">Product Number</label>
+                <input type="text" id="number" name="number" placeholder="">
+
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" placeholder="">
+
+                <label for="price">Unit Price</label>
+                <input type="text" id="price" name="price" placeholder="0.0">
+            </form>
+        </div>
+        <div>
+            <form action="/#test">
+                <label for="stock">Quantity in stock</label>
+                <input type="text" id="stock" name="stock" placeholder="">
+
+                <label for="supplier">Supplier</label>
+                <select id="supplier" name="supplier" class="suppSellect">
+                    <option value="australia">Baiaman</option>
+                    <option value="canada">Nurlan</option>
+                    <option value="usa">Elbek</option>
+                </select>
+
+                <label for="date">Data supplied</label>
+                <input type="date" id="date" name="date" placeholder="">
+
+            </form>
+
+            <div id="outer">
+                <div class="inner"><button type="submit" class="resetBut">Reset</button></div>
+                <div class="inner"><button type="submit" class="canceBut">Cancel</button></div>
+                <div class="inner"><button class="addBut">Add Product</button></div>
+            </div>
+        </div>
+    </div>
 
 </body>
 </html>

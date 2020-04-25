@@ -2,9 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Webform - 1</title>
+    <link rel="stylesheet" href="styleWebform1.css">
 </head>
 <body>
+<div>
+    <form action="success.html">
+        <label for="email">Email adress</label>
+        <input type="email" id="email" name="email" placeholder="Enter email">
+
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{10,15}" placeholder="Enter password" title="Must
+contain at least one number and one uppercase and lowercase letter, and at least 10 or
+more characters">
+
+        <input type="checkbox" name="checkBox" />
+        <label>Check me out</label><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>
 
 </body>
 </html>
