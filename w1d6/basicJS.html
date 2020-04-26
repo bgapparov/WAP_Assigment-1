@@ -74,9 +74,9 @@
         }
 
         //filterLongWords()
-        function filterLongWords(array, i){
+        function filterLongWords(array, num){
 
-            return res;
+            return array.filter(function (a) {return a.length > num  });
         }
 
 
@@ -87,6 +87,7 @@
         console.log("Expected output of the [1, 3, 4, 2] is 24 " + functionTest(24, multiply([3, 4, 2])));
         console.log("Expected output of  of the today  is yadot " + functionTest('yadot', myReverse('today')));
         console.log("Ecpected output of the ['hello', 'bai', 'goodbye'] " + functionTest('goodbye', findLongestWord(['hello', 'bai', 'goodbye'])));
+        console.log("Expected output of the ['Ale', 'Hehe', 'Oha', 'u'] " + functionTest('Hehe', filterLongWords(['Ale', 'Hehe', 'Oha', 'u'], 3)))
     </script>
 </head>
 <body>
