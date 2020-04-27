@@ -1,37 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Decorate</title>
-    <script>
-        let animal = {
-            name: "Lion",
-            weight: 200,
-            age: 3
-        };
-        console.log(animal.name + " " + animal.weight + " " + animal.age);
+    <title>Text Decorator</title>
+    <link href="decoratemytext.css" type="text/css" rel="stylesheet" />
+    <script src="decoraterJs.js"></script>
 
-        let array = ["Hello", "Brother", "goodbye"];
+    <!--
+    This is a widely-used JavaScript library named jQuery that has
+    many useful functions which we need.
+    Please don't remove this link or change its URL; leave it as-is!
+    -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 
-        console.log(array[1]);
+    <!-- link to your script file here -->
 
-        var x = "Baiaman"
-        var y = new String("Baiaman");
-        if(x === y){
-            console.log("True")
-        }else {
-            console.log("false");
-        }
-        if(f){
-            alert(true);}
-            else{
-                alert(false);
-            }
-    </script>
 </head>
-<body>
-<h3>Decorate</h3>
-<p id="test"></p>
 
+<body>
+<h1>Text Decorator</h1>
+
+<div>
+    <img src="../images/decorated.gif" alt="very decorated!" />
+</div>
+
+<!-- Your UI controls go here -->
+<fieldset>
+    <legend>Text</legend>
+    <textarea  id="sampleId"  rows="4" cols="30">
+        Sample item 1
+        Sample item 2
+    </textarea>
+</fieldset>
+
+<fieldset>
+  <legend style="font-weight: bold">Decoration</legend>
+
+    <button id="bigDecId">Bigger Decorations!</button>
+    <br/>
+
+    <div>
+        <input type="checkbox" id="bling" name="bling" onchange="onchange(this.id)">Bling
+    </div>
+</fieldset>
 </body>
 </html>
