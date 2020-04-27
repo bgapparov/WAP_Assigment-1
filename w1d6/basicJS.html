@@ -76,7 +76,8 @@
         //filterLongWords()
         function filterLongWords(array, num){
 
-            return array.filter(function (a) {return a.length > num  });
+            var res = array.filter(function (a) {return a.length > num  });
+            return res.toString();
         }
 
 
