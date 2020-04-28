@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad01603e-9f22-4f25-83eb-4b758541a291" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/w2d1/decoraterJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1/decoraterJs.js" afterDir="false" />
-    </list>
+    <list default="true" id="ad01603e-9f22-4f25-83eb-4b758541a291" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/w2d1/decoraterJs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -228,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587416842633</updated>
       <workItem from="1587416843831" duration="1657000" />
-      <workItem from="1587419785845" duration="87826000" />
+      <workItem from="1587419785845" duration="87925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89483000" />
+    <option name="totallyTimeSpent" value="89582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1440" height="822" extended-state="6" />
@@ -545,7 +543,7 @@
     <entry file="file://$PROJECT_DIR$/w2d1/decoraterJs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
         </state>
       </provider>
     </entry>

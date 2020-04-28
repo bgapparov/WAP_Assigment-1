@@ -15,7 +15,7 @@ function helloClick() {
 
 function onchange(id) {
     if(this.checked) {
-        alert("Do you want to change some style?");
+        //alert("Do you want to change some style?");
         document.body.style.backgroundImage = "url('http://www.cs.washington.edu/education/courses/190m/CurrentQtr/labs/6/hundred-dollar-bill.jpg')";
         document.getElementById("sampleId").style.fontWeight = 'bold';
         document.getElementById("sampleId").style.color = 'green';
