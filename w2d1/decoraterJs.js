@@ -28,5 +28,5 @@ function onchange(id) {
 }
 
 function timer() {
-    setInterval(helloClick, 5000);
+    setInterval(helloClick, 500);
 }
