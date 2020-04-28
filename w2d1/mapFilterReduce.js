@@ -1,6 +1,10 @@
+/*jshint esversion: 6  */
+
+(function() {
+    "use strict";
 function functionTest(expected, reality) {
     if(expected === reality){
-        return "TEST SUCCEEDED"
+        return "TEST SUCCEEDED";
     }else {
         return "TEST FAILED. Expected " + expected + " reality " + reality;
     }
@@ -27,7 +31,7 @@ function reverseReduce(str) {
 //filterLong Words function with filter
 function filterLongWords(array, num){
 
-    var res = array.filter(function (a) {return a.length > num  });
+    let res = array.filter(function (a) {return a.length > num;  });
     return res.toString();
 }
 
@@ -43,3 +47,4 @@ console.log(sum([1,3,5,7,4,5]));
 console.log(multiply([3, 4, 2]));
 console.log(reverseReduce('today'));
 console.log(filterLongWords(['Ale', 'Hello', 'Oha', 'u'], 3));
+}());
