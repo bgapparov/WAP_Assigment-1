@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad01603e-9f22-4f25-83eb-4b758541a291" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/decorated.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w2d1/decoratemytext.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w2d1/decoraterJs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d1/decorate.html" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1/decorate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2d1/decoraterJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1/decoraterJs.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/w2d1/decoraterJs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+            <state relative-caret-position="136">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -232,12 +228,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587416842633</updated>
       <workItem from="1587416843831" duration="1657000" />
-      <workItem from="1587419785845" duration="86761000" />
+      <workItem from="1587419785845" duration="87252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88418000" />
+    <option name="totallyTimeSpent" value="88909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1440" height="822" extended-state="6" />
@@ -548,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w2d1/decoraterJs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
