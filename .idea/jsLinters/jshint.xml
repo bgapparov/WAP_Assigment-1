@@ -71,7 +71,7 @@
     <option sub="false" />
     <option supernew="false" />
     <option trailing="false" />
-    <option typed="false" />
+    <option typed="true" />
     <option undef="true" />
     <option unused="false" />
     <option validthis="false" />
