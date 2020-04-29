@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad01603e-9f22-4f25-83eb-4b758541a291" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/w2d3/practiceJs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w2d3/scripts/practiceJs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2d3/scripts/practiceJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d3/scripts/practiceJs.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/w2d3/scripts/practiceJs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            <state relative-caret-position="407">
+              <caret line="90" column="33" lean-forward="true" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -118,7 +116,6 @@
         <option value="$PROJECT_DIR$/w2d1/decorate.html" />
         <option value="$PROJECT_DIR$/w2d1/decoraterJs.js" />
         <option value="$PROJECT_DIR$/w2d2/ascii.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/w2d1/mapFilterReduce.js" />
         <option value="$PROJECT_DIR$/w2d2/unitTestJs.js" />
@@ -131,6 +128,7 @@
         <option value="$PROJECT_DIR$/w2d2/unitTestPage.html" />
         <option value="$PROJECT_DIR$/w2d2/scripts/basiciJS.js" />
         <option value="$PROJECT_DIR$/w2d3/practiceJs.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/w2d3/scripts/practiceJs.js" />
       </list>
     </option>
@@ -176,11 +174,6 @@
               <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
               <item name="w2d2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
-              <item name="w2d3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,12 +241,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587416842633</updated>
       <workItem from="1587416843831" duration="1657000" />
-      <workItem from="1587419785845" duration="104156000" />
+      <workItem from="1587419785845" duration="106465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105813000" />
+    <option name="totallyTimeSpent" value="108122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1440" height="822" extended-state="6" />
@@ -531,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w2d2/css/ascii.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -613,10 +599,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="47" column="75" lean-forward="true" selection-start-line="47" selection-start-column="75" selection-end-line="47" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/w2d3/scripts/practiceJs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        <state relative-caret-position="407">
+          <caret line="90" column="33" lean-forward="true" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
