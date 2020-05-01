@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad01603e-9f22-4f25-83eb-4b758541a291" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/examplePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/jsCompiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d4/examReview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d4/reviewQuestions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2d3/scripts/practiceTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+            <state relative-caret-position="-1550">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -51,11 +55,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="484">
               <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w2d4/reviewQuestions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="30" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w2d4/examReview.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="108" column="27" lean-forward="true" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/examplePage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/jsCompiler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +174,10 @@
         <option value="$PROJECT_DIR$/w2d3/practiceJs.html" />
         <option value="$PROJECT_DIR$/w2d3/scripts/practiceTest.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/w2d4/reviewQuestions" />
+        <option value="$PROJECT_DIR$/w2d4/examReview.js" />
+        <option value="$PROJECT_DIR$/example/examplePage.html" />
+        <option value="$PROJECT_DIR$/example/jsCompiler.js" />
       </list>
     </option>
   </component>
@@ -166,6 +216,11 @@
             <path>
               <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
               <item name="w1d6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -176,13 +231,7 @@
             <path>
               <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
-              <item name="w2d3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAP_Assigment-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAP-Assigment-1" type="462c0819:PsiDirectoryNode" />
-              <item name="w2d3" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="w2d4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,12 +299,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587416842633</updated>
       <workItem from="1587416843831" duration="1657000" />
-      <workItem from="1587419785845" duration="108800000" />
+      <workItem from="1587419785845" duration="111793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110457000" />
+    <option name="totallyTimeSpent" value="113450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1440" height="822" extended-state="6" />
@@ -295,26 +344,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w1d2/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/w3c-html.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/catFunny.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/rbg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -598,16 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w2d3/scripts/practiceTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w2d2/scripts/basiciJS.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -629,6 +648,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2d4/reviewQuestions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/examplePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2d4/examReview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="27" lean-forward="true" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2d3/scripts/practiceTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1550">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/jsCompiler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
