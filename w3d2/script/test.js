@@ -6,7 +6,7 @@
     let savingsAccount = new SavingsAccount(2, 2.5);
     let checkingAccount = new CheckingAccount(3, 500);
     let bank = new Bank();
-    describe("Assignment w2d2", function () {
+    describe("Assignment w3d3", function () {
         context("Exercise A ", function () {
             it('account.getNumber is 1', function () {
                 assert.equal(account.getNumber(), 1);
@@ -27,7 +27,7 @@
             });
         });
 
-        context("Exercise b", function () {
+        context("Exercise B", function () {
             it("savingsAccount.interest is 2.5", function () {
                 assert.equal(savingsAccount.interest, 2.5);
             });
@@ -41,7 +41,7 @@
             });
         });
 
-        context("Exercise c", function () {
+        context("Exercise C", function () {
             it("checkingAccount.overdraftLimit is 500", function () {
                 assert.equal(checkingAccount.overdraftLimit, 500);
             });
@@ -58,7 +58,7 @@
             });
         });
 
-        context("Exercise d", function () {
+        context("Exercise D", function () {
             it("bank.addAccount() is 1", function () {
                 assert.equal(bank.addAccount(), 1);
             });
@@ -74,7 +74,7 @@
             });
         });
 
-        context("Exercise e", function () {
+        context("Exercise E", function () {
             beforeEach(function () {
                 bank.addSavingsAccount(4.5, 2000);
             });
