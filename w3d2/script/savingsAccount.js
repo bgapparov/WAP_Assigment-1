@@ -2,8 +2,8 @@
 
 
     class SavingsAccount extends Account{
-        constructor(interest) {
-            super();
+        constructor(interest, number) {
+            super(number);
             this._interest = interest;
         }
 
@@ -22,7 +22,12 @@
             return interest;
         }
 
+        endOfMonth(){
+            let interest = this.addInterest();
+            return "Interest added SavingsAccount "+this.getNumber()+": balance: "+this.getBalance()+" interest: "+interest;
+        }
+
         toString(){
-            return "Interest " + this._interest;
+            return "SavingAccount " + this._number + " balance " + super.getBalance() + " interest(%) " + this._interest + "%";
         }
     }
