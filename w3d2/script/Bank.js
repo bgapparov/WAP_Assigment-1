@@ -41,7 +41,7 @@ class Bank{
     endOfMonth(){
         let result = "";
         for(let acc of this._accounts){
-            result += acc.constructor.name + " #" + acc.getNumber()+": \""+ acc.endOfMonth()+"\"\n";
+            result += acc.constructor.name + " #" + acc.getNumber()+": \"" + acc.endOfMonth()+"\"\n";
         }
         return result;
     }

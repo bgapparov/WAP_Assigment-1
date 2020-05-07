@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mocha" level="application" />
     <orderEntry type="library" name="chai" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
 </module>
