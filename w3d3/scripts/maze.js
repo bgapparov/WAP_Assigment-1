@@ -41,8 +41,5 @@
             boundary.addClass('youlose');
             $('#status').text('So sad! You lost the game, Try again!')
         }
-
     });
-
-
 }());
